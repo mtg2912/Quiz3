@@ -1,0 +1,32 @@
+Please enter the number of inputs. (Max of 50)
+7
+Please input a number.
+1
+Please input a number.
+5
+Please input a number.
+6
+Please input a number.
+4
+Please input a number.
+7
+Please input a number.
+2
+Please input a number.
+3
+Inputs in ascending order:
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+Inputs in descending order:
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
